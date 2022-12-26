@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "33eBrcETfUlLObB+0SDUgRM/bwzB3Tqnl26m+xEM6Z8SqhGT/5YGCjPQJiFZYpKfl/n38iLk24WEP/NSNU606Q==",
+  "success": true,
+  "projectFilePath": "/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/gozdemogus/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

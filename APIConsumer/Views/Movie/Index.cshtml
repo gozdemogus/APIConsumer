@@ -1,0 +1,21 @@
+﻿@model List<MovieListViewModel>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Film Adı</th>
+        <th>Puanı</th>
+        <th>Yapım Yılı</th>
+        <th>Fragman</th>
+    </tr>
+    @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.rank</td>
+                <td>@item.title</td>
+                <td>@item.rating</td>
+                <td>@item.year</td>
+                <td><a href="#" class="btn btn-outline-dark">Fragman</a></td>
+            </tr>
+        }
+</table>

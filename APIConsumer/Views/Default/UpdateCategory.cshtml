@@ -1,0 +1,18 @@
+﻿@model CategoryViewModel
+
+<form method="post">
+    <div class="container">
+        <input type="hidden" asp-for="CategoryID" />
+        <label>Kategori Adı</label>
+        <input type="text" class="form-control" asp-for="CategoryName" />
+        <br />
+        <input type="hidden" asp-for="Description" />
+        <label>Kategori Açıklama</label>
+        <input type="text" class="form-control" asp-for="Description" />
+        <br />
+        @*@Html.DropDownListFor(x => x.Status, (List<SelectListItem>)ViewBag.Options, new { @class = "form-control"})*@
+      
+        <br />
+        <button class="btn btn-outline-success">Bilgileri Güncelle</button>
+    </div>
+</form>
