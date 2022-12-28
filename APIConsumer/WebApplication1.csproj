@@ -8,6 +8,7 @@
     <None Remove="Newtonsoft.Json" />
     <None Remove="Views\Default\" />
     <None Remove="Views\Movie\" />
+    <None Remove="Views\Currency\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
@@ -15,5 +16,6 @@
   <ItemGroup>
     <Folder Include="Views\Default\" />
     <Folder Include="Views\Movie\" />
+    <Folder Include="Views\Currency\" />
   </ItemGroup>
 </Project>

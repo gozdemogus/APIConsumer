@@ -9,53 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = /Users/gozdemogus/Desktop/APIConsumer/APIConsumer/
+build_property.ProjectDir = /Users/gozdemogus/Projects/APIConsumer/APIConsumer/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/gozdemogus/Desktop/APIConsumer/APIConsumer
+build_property.MSBuildProjectDirectory = /Users/gozdemogus/Projects/APIConsumer/APIConsumer
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/Default/AddCategory.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Currency/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VycmVuY3kvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Default/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9BZGRDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/Default/Index.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/Default/UpdateCategory.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Default/UpdateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9VcGRhdGVDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/Home/Index.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/Home/Privacy.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/Movie/Index.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Movie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/Shared/Error.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/Shared/_Layout.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/_ViewImports.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gozdemogus/Desktop/APIConsumer/APIConsumer/Views/_ViewStart.cshtml]
+[/Users/gozdemogus/Projects/APIConsumer/APIConsumer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
